@@ -1,0 +1,24 @@
+---------- Git e GitHub ----------
+
+1 - Controle de Versão
+2 - Armazenamento em nuvem
+3 - TRabalho em equipe
+4 - Melhorar seu código
+5 - Reconhecimento
+
+---------- Comando do Terminal ----------
+
+Windows           Unix (Linux/Mac)
+  cd                   cd            = navegar
+  dir                  ls            = listar
+  mkdir                mkdir         = criar
+  del / rmdir          rm -rf        = deletar arquivo/pasta
+  cls                  clear         = limpoar tela
+
+
+---------- Chave SSh ----------
+
+1 - GitHub / settings / ssh and gpg keys
+2 - cli (Git Bash) -> ssh-keygen -t ed25519 -c email do GitHub
+3 - cd/c/users/usuario/.ssh -> ls (para listar as chaves públicas e privadas) -> cat id_ed25519.pub (vai gerar a chave publica para colocar no GitHub) -> coloca um nome e cola a chave gerada
+4 - 
